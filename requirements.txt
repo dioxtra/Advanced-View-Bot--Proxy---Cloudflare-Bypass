@@ -1,0 +1,5 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+cloudscraper==1.2.71
+selenium==4.15.2
+concurrent-log-handler==0.9.24
