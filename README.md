@@ -14,8 +14,8 @@
 ## Installation
 
 1. Clone the repository:
-   bash
-   git clone https://github.com/yourusername/advanced-view-bot.git
+    bash
+    git clone https://github.com/yourusername/advanced-view-bot.git
 
 2.Install dependencies:
 
