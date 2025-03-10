@@ -4,7 +4,7 @@
 
 ## Features
 
-- **🌐 Proxy Support**: Works with HTTP/HTTPS proxies. Automatically tests and filters working proxies.
+- **🌐 Proxy Support**: Works with HTTP/HTTPS/SOCKS5 proxies. Automatically tests and filters working proxies.
 - **🛡️ Cloudflare Bypass**: Utilizes `cloudscraper` and `selenium` to bypass Cloudflare's anti-bot protection.
 - **🖥️ Realistic Browser Simulation**: Simulates human-like browsing behavior with randomized user agents, referrers, scroll and click events, and viewing times.
 - **🧠 Browser Fingerprints**: Generates and uses realistic browser fingerprints to avoid detection.
