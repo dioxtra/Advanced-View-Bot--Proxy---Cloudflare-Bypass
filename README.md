@@ -16,7 +16,7 @@
 1.Clone the repository:
 
     bash
-    git clone https://github.com/yourusername/advanced-view-bot.git
+    https://github.com/dioxtra/Advanced-View-Bot--Proxy---Cloudflare-Bypass
 
 2.Install dependencies:
 
